@@ -48,12 +48,12 @@ Here are some screenshots of the ContactHive app:
 
 <img src="https://i.ibb.co/pvsXMn7/Screenshot-20230414-180301.jpg" alt="App Screenshot" width="500px" />
 <img src="https://i.ibb.co/5rFJ258/Screenshot-20230414-180311.jpg" alt="App Screenshot" width="500px" />
-<img src="https://i.ibb.co/t3LM0yp/Screenshot-20230414-180523.jpg" alt="App Screenshot" width="500px" />
+<img src="https://i.ibb.co/LngPyb4/Screenshot-20230414-180523.jpg" alt="App Screenshot" width="500px" />
 <img src="https://i.ibb.co/br0TJJK/Screenshot-20230414-180402.jpg" alt="App Screenshot" width="500px" />
 <img src="https://i.ibb.co/ZNCNGvG/Screenshot-20230414-180455.jpg" alt="App Screenshot" width="500px" />
 <img src="https://i.ibb.co/4K8N12Q/Screenshot-20230414-180504.jpg" alt="App Screenshot" width="500px" />
-<img src="https://i.ibb.co/tcSctZ2/Screenshot-20230414-180613.jpg" alt="App Screenshot" width="500px" />
+<img src="https://i.ibb.co/CBqRPWb/Screenshot-20230414-180613.jpg" alt="App Screenshot" width="500px" />
 <img src="https://i.ibb.co/Qb1G16z/Screenshot-20230414-180637.jpg" alt="App Screenshot" width="500px" />
 
 ## Credit
-ContacHive is the project of students in `Group 2` of the `Computer Technology (2019-20)` program for `App Development Project` course.
+ContacHive is the project of students in `Group 2` of the `RPI Computer Technology (2019-20)` program for `Apps Development Project` course.
